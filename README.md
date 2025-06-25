@@ -46,7 +46,7 @@ Payment fraud costs companies billions annually. Detecting fraud early using beh
 - Bar chart: risky transactions by hour
 - Slicers for risk filtering and hourly patterns
 
-![Dashboard Preview](dashboard-sample.png) <!-- Optional if you upload an image -->
+![Dashboard Preview](https://github.com/omkar-247/Payment-Fraud-Detection/blob/main/Dashboard.png) <!-- Optional if you upload an image -->
 
 ---
 
